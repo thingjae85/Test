@@ -1,14 +1,13 @@
 week02
 -linux command : ls /ls -a ls /-al /pwd /cd /git /cd ..
 -git command :
-git init
+g
 git status
 git add week01.txt
 git config --global user.email "example@.example.com" 
 git config --global user.name "example@.example.com"
 git commit -m "v0"
 git log 
-git cheak out 
+git checkout 
 
-git remote add origin https://github.com/DRation1/test2.git
 git push -u origin main
