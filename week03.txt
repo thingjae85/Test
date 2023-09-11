@@ -1,3 +1,5 @@
 week03
 - week02 review
-- git command : git pull
+
+git command 
+- git pull
