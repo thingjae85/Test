@@ -1,7 +1,6 @@
 week02
--linux command : ls /ls -a ls /-al /pwd /cd /git /cd ..
+-linux command : ls / ls -a/ ls -al /pwd /cd /git /cd ../ echo/ cat
 -git command :
-g
 git status
 git add week01.txt
 git config --global user.email "example@.example.com" 
@@ -10,4 +9,10 @@ git commit -m "v0"
 git log 
 git checkout 
 
+git branch -M main
+git remote add origin https://github.com/DRation1/test2.git
 git push -u origin main
+git push
+
+git checkout specific-commit-id
+git checkout . 취소
