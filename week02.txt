@@ -11,8 +11,13 @@ git checkout
 
 git branch -M main
 git remote add origin https://github.com/DRation1/test2.git
+git remote -v
 git push -u origin main
 git push
+git clone https링크 .
 
 git checkout specific-commit-id
 git checkout . 취소
+
+
+
